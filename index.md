@@ -26,7 +26,7 @@
 [https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 ---
-
+[Clash For Windows](https://cloud.189.cn/t/bmqYzqMN3mQ3（访问码：6qss）)
 
 
 
