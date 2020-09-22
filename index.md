@@ -13,7 +13,7 @@
 ##  Qv2ray
 [https://github.com/Qv2ray/Qv2ray/releases](https://github.com/Qv2ray/Qv2ray/releases)
 ##  V2rayNG 
-[V2rayNG](https://github.com/2dust/v2rayNG/releases)
+[https://github.com/2dust/v2rayNG/releases](https://github.com/2dust/v2rayNG/releases)
 
 ## Clash For Android
 
