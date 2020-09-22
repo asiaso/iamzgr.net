@@ -1,10 +1,13 @@
-## Fend Me
- V2ray:
-	https://sub.qianglie.xyz/subscribe.php?sid=6943&token=PPsSvKSzipV0
- Clash:
-	https://sub.qianglie.xyz/v1/clash.php?sid=6943&token=PPsSvKSzipV0
-  V2ray:
-	https://crabcloud.vip/link/6swM9Bpkafaci6Ss?sub=3
+***
 
-Clash:
-	https://crabcloud.vip/link/6swM9Bpkafaci6Ss?clash=1
+## Clash For Android
+
+[https://github.com/Kr328/ClashForAndroid/releases](https://github.com/Kr328/ClashForAndroid/releases)
+
+---
+
+## Clash for windows
+
+[https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+
+---
