@@ -34,4 +34,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://sub.qianglie.xyz/subscribe.php?sid=6943&token=PPsSvKSzipV0) or [contact support](https://sub.qianglie.xyz/v1/clash.php?sid=6943&token=PPsSvKSzipV0) and we’ll help you sort it out.
+[email](https://crabcloud.vip/link/6swM9Bpkafaci6Ss?sub=3)
+[email](https://crabcloud.vip/link/6swM9Bpkafaci6Ss?clash=1)
+
