@@ -5,7 +5,7 @@
 [https://v2ray.com/](https://v2ray.com/)
 ##  V2ray-core
 [https://github.com/v2fly/v2ray-core/releases](https://github.com/v2fly/v2ray-core/releases)
-***
+
 ##  Mellow
 [https://github.com/mellow-io/mellow/releases](https://github.com/mellow-io/mellow/releases)
 ##  V2rayN
