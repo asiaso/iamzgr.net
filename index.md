@@ -8,6 +8,10 @@
 ***
 ##  Mellow
 [Mellow](https://github.com/mellow-io/mellow/releases)
+##  V2rayN
+[https://github.com/2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases)
+##  Qv2ray
+[https://github.com/Qv2ray/Qv2ray/releases](https://github.com/Qv2ray/Qv2ray/releases)
 ##  V2rayNG 
 [V2rayNG](https://github.com/2dust/v2rayNG/releases)
 
@@ -26,6 +30,3 @@
 
 
 
-[]()
-
-[]()
