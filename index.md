@@ -1,15 +1,15 @@
 
-– [DuckDuckGo](http://3g2upl4pq6kufc4m.onion) For the darknet, but searches only the clearnet.
-– [not Evil](http://hss3uro2hsxfogfq.onion) The premier search engine of onionland.  
-–  [visitor](http://visitorfi5kl7q7i.onion) Evil and clone domains filtered. Good accuracy
-– [Ahmia.fi](http://msydqstlz2kzerdg.onion) onion and tor2web search links. Reasonable accuracy
-– [Torch](http://xmh57jrzrnw6insl.onion) onion searches. Poor search-result accuracy
-– [Dark Search Enginer](http://7pwy57iklvt6lyhe.onion) A new search engine for the darknet
-– [Dark web links](http://bznjtqphs2lp4xdd.onion) A new search engine. Poor result accuracy
-– [searx](http://searchb5a7tmimez.onion) Search engine for the clearnet. Categories
-– [Candle](http://gjobqjj7wyczbqie.onion) Retro-like-design. Fine search-result accuracy
-– [TorSearch](http://kbhpodhnfxl3clb4.onion) Around 410K .onion pages indexed currently
-– [Caronte](http://carontevaha5x626.onion) A new seach engine with good accuracy
+– [DuckDuckGo](http://3g2upl4pq6kufc4m.onion) For the darknet, but searches only the clearnet.  
+– [not Evil](http://hss3uro2hsxfogfq.onion) The premier search engine of onionland.    
+–  [visitor](http://visitorfi5kl7q7i.onion) Evil and clone domains filtered. Good accuracy  
+– [Ahmia.fi](http://msydqstlz2kzerdg.onion) onion and tor2web search links. Reasonable accuracy  
+– [Torch](http://xmh57jrzrnw6insl.onion) onion searches. Poor search-result accuracy  
+– [Dark Search Enginer](http://7pwy57iklvt6lyhe.onion) A new search engine for the darknet  
+– [Dark web links](http://bznjtqphs2lp4xdd.onion) A new search engine. Poor result accuracy  
+– [searx](http://searchb5a7tmimez.onion) Search engine for the clearnet. Categories  
+– [Candle](http://gjobqjj7wyczbqie.onion) Retro-like-design. Fine search-result accuracy  
+– [TorSearch](http://kbhpodhnfxl3clb4.onion) Around 410K .onion pages indexed currently  
+– [Caronte](http://carontevaha5x626.onion) A new seach engine with good accuracy  
 
 ```
 Introduction Points
