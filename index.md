@@ -1,4 +1,12 @@
-
+# 暗网网址导航
+***
+> http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
+> http://jgwe5cjqdbyvudjqskaajbfibfewew4pndx52dye7ug3mt3jimmktkid.onion/
+> http://paavlaytlfsqyvkg3yqj7hflfg5jw2jdg2fgkza5ruf6lplwseeqtvyd.onion/
+> https://thehiddenwiki.com/new-long-v3-onion-services-version-3-hidden-service-links-on-the-hidden-wiki/
+> https://thehiddenwiki.com/
+> http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
+***
 – [DuckDuckGo](http://3g2upl4pq6kufc4m.onion) For the darknet, but searches only the clearnet.  
 – [not Evil](http://hss3uro2hsxfogfq.onion) The premier search engine of onionland.    
 –  [visitor](http://visitorfi5kl7q7i.onion) Evil and clone domains filtered. Good accuracy  
