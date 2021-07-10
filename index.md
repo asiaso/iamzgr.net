@@ -1,32 +1,14 @@
-***
-##  V2ray
-[https://www.v2fly.org/](https://www.v2fly.org/)
-##  V2fly
-[https://v2ray.com/](https://v2ray.com/)
-##  V2ray-core
-[https://github.com/v2fly/v2ray-core/releases](https://github.com/v2fly/v2ray-core/releases)
 
-##  Mellow
-[https://github.com/mellow-io/mellow/releases](https://github.com/mellow-io/mellow/releases)
-##  V2rayN
-[https://github.com/2dust/v2rayN/releases](https://github.com/2dust/v2rayN/releases)
-##  Qv2ray
-[https://github.com/Qv2ray/Qv2ray/releases](https://github.com/Qv2ray/Qv2ray/releases)
-##  V2rayNG 
-[https://github.com/2dust/v2rayNG/releases](https://github.com/2dust/v2rayNG/releases)
-
-## Clash For Android
-
-[https://github.com/Kr328/ClashForAndroid/releases](https://github.com/Kr328/ClashForAndroid/releases)
-
----
-
-## Clash for windows
-
-[https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-
----
-[Clash For Windows](https://cloud.189.cn/t/bmqYzqMN3mQ3（访问码：6qss）)
-
-
-
+– DuckDuckGo – For the darknet, but searches only the clearnet.
+    http://3g2upl4pq6kufc4m.onion 
+– not Evil – The premier search engine of onionland.   
+    http://hss3uro2hsxfogfq.onion 
+    http://visitorfi5kl7q7i.onion – visitor – Evil and clone domains filtered. Good accuracy.
+    http://msydqstlz2kzerdg.onion – Ahmia.fi – onion and tor2web search links. Reasonable accuracy.
+    http://xmh57jrzrnw6insl.onion – Torch – onion searches. Poor search-result accuracy.
+    http://7pwy57iklvt6lyhe.onion – Dark Search Enginer - A new search engine for the darknet.
+    http://bznjtqphs2lp4xdd.onion – Dark web links – A new search engine. Poor result accuracy.
+    http://searchb5a7tmimez.onion – searx – Search engine for the clearnet. Categories.
+    http://gjobqjj7wyczbqie.onion – Candle – Retro-like-design. Fine search-result accuracy.
+    http://kbhpodhnfxl3clb4.onion – TorSearch – Around 410K .onion pages indexed currently.
+    http://carontevaha5x626.onion – Caronte – A new seach engine with good accuracy.
