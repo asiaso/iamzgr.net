@@ -9,7 +9,7 @@
 ***
   
 
-– [DuckDuckGo](http://3g2upl4pq6kufc4m.onion) For the darknet, but searches only the clearnet.  
+– [DuckDuckGo](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/) For the darknet, but searches only the clearnet.  
 – [not Evil](http://hss3uro2hsxfogfq.onion) The premier search engine of onionland.    
 –  [visitor](http://visitorfi5kl7q7i.onion) Evil and clone domains filtered. Good accuracy  
 – [Ahmia.fi](http://msydqstlz2kzerdg.onion) onion and tor2web search links. Reasonable accuracy  
